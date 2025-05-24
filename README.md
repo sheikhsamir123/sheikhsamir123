@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning c++.
 - 💞️ I’m looking to contribute in projects(c-language) mainly focusing to logical thinking section.
 - 📫 How to reach me https://www.facebook.com/cr.sameer.16
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I have done few projects among which snakeladder game is one 
 
 <!---
 sheikhsamir123/sheikhsamir123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
